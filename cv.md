@@ -50,3 +50,20 @@ function getCount(str) {
 ```
 
 ***
+
+### __Courses__
+
+1. [FreeCodeCamp][id] Responsive Web Design (in progress)
+2. [FreeCodeCamp][id] JavaScript Algorithms and Data Structures (in progress)
+3. [JavaScript Manual](https://learn.javascript.ru/) (in progress)
+4. [RS Schools Course «JavaScript/Front-end. Stage 1»](https://rs.school/) (in progress)
+
+[id]:https://www.freecodecamp.org/
+
+***
+
+### __Languages__
+
++ English - A2
++ Polish - Basic
++ Russian - Native
